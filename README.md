@@ -27,7 +27,7 @@ djangoProjects/\
 ├── django_15UniProject\
 ├── django_16FoodCart\
 ├── django_17RESTAPIS\
-└── README.md\
+└── README.md
 
 ## Each of these folders have a "manage.py". So, you now know how to run each of them. 
 ## Enjoy !
