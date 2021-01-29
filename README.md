@@ -9,25 +9,25 @@ These are all my django projects which I created during my learning.
 
 ### The workspace looks like below :
 
-djangoProjects/
+djangoProjects/\
 ├── django_01Intro\
 ├── django_02Templates\
-├── django_03Statics
-├── django_04Models
-├── django_05Forms
-├── django_06ModelForms
-├── django_07AdvTemplates
-├── django_08Sessions
-├── django_09Auth
-├── django_10CBV
-├── django_11ORM
-├── django_12AdvModels
-├── django_13Middleware
-├── django_14BloggerProject
-├── django_15UniProject
-├── django_16FoodCart
-├── django_17RESTAPIS
-└── README.md
+├── django_03Statics\
+├── django_04Models\
+├── django_05Forms\
+├── django_06ModelForms\
+├── django_07AdvTemplates\
+├── django_08Sessions\
+├── django_09Auth\
+├── django_10CBV\
+├── django_11ORM\
+├── django_12AdvModels\
+├── django_13Middleware\
+├── django_14BloggerProject\
+├── django_15UniProject\
+├── django_16FoodCart\
+├── django_17RESTAPIS\
+└── README.md\
 
 ## Each of these folders have a "manage.py". So, you now know how to run each of them. 
 ## Enjoy !
