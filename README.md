@@ -10,8 +10,8 @@ These are all my django projects which I created during my learning.
 ### The workspace looks like below :
 
 djangoProjects/
-├── django_01Intro
-├── django_02Templates
+├── django_01Intro\
+├── django_02Templates\
 ├── django_03Statics
 ├── django_04Models
 ├── django_05Forms
