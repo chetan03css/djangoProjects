@@ -16,8 +16,11 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path, include
 from modelformApp import views
+from moviesApp import views as movieView
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('sform/', include("modelformApp.urls")),
-    path('index/', views.indexPage),
+    path('', movieView.indexView),
+    path('addmovie', movieView.addMovie),
+    path('listmovies', movieView.listMovies),
 ]
